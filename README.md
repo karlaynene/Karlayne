@@ -29,15 +29,28 @@
             <li>Introducción a la filosofía</li>
             <li>Matemática II</li>
             <li> Introducción de Ciencia a la Computación 
-            
-        </ul>
-    </section>
-     <h2>LINKEDLN de mis profesores </h2>
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <title>Información de contacto</title>
+</head>
+<body>
+
+  <section>
+    <h2>LinkedIn de mis profesores</h2>
     <ul>
-     <li><a href="https://www.linkedin.com/in/ecuadrosv/" > Ernesto Cuadros Vargas </a></li>
-     </ul>
-     <section>
-     <h2>Contacto</h2>
-      <li>karlayne.chuctaya@ucsp.edu.pe </li>
-    </body>
-      </html>
+      <li><a href="https://www.linkedin.com/in/ecuadrosv/" target="_blank">Ernesto Cuadros Vargas</a></li>
+    </ul>
+  </section>
+
+  <section>
+    <h2>Contacto</h2>
+    <ul>
+      <li>karlayne.chuctaya@ucsp.edu.pe</li>
+    </ul>
+  </section>
+
+</body>
+</html>
+
