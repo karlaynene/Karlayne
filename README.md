@@ -38,7 +38,6 @@
             <li><a href="https://miranda14.neocities.org/">Miranda Aracely Llave Cuyo</a></li>
             <li><a href="https://melanycolquehuanca.neocities.org">Melany Shanely Colquehuanca Jaño</a></li>
             <li><a href="https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/">Yadhira Yuriko Coyuri Tirado</a></li>
-            <li><a href="https://cami15la23.github.io/mi-pagina-/">Camila Alexandra Portillo Ito</a></li>
         </ul>
     </section>
      <h2>LINKEDLN de mis profesores </h2>
