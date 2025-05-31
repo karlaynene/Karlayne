@@ -14,7 +14,7 @@
     <section>
         <h2>Información General</h2>
         <ul>
-            <li>EDAD: 18</li>
+            <li>EDAD: 16</li>         
         </ul>
     </section>
     <section>
@@ -33,13 +33,12 @@
         </ul>
     </section>
     <section>
-        <h2>Compañeros de Clase</h2>
-        <ul>
-            <li><a href="https://miranda14.neocities.org/">Miranda Aracely Llave Cuyo</a></li>
-            <li><a href="https://melanycolquehuanca.neocities.org">Melany Shanely Colquehuanca Jaño</a></li>
-            <li><a href="https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/">Yadhira Yuriko Coyuri Tirado</a></li>
-            <li><a href="https://cami15la23.github.io/mi-pagina-/">Camila Alexandra Portillo Ito</a></li>
-        </ul>
+          <h2>Compañeros de Clase</h2>   </>
+            <ul>
+                  <li><a hre"https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/>"Yadhira Yuriko Coyuri Tirado</a></li>
+                  <li><a href="https://cami15la23.github.io/mi-pagina-/">Camila Alexandra Portillo Ito</a></li>
+                  <li><a href="https://miranda14.neocities.org/">Miranda Aracely Llave Cuyo</a></li>
+    </ul>
     </section>
      <h2>LINKEDLN de mis profesores </h2>
     <ul>
@@ -47,6 +46,6 @@
      </ul>
      <section>
      <h2>Contacto</h2>
-      <li>karlayne.chuctaya@ucsp.edu.pe </li>
+      <li>karlayne.chuctaya@ucsp.edu.pe</li>
     </body>
       </html>
