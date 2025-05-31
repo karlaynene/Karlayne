@@ -30,22 +30,36 @@
             <li>Matemática II</li>
             <li> Introducción de Ciencia a la Computación 
             
-        </ul>
-    </section>
-    <section>
-          <h2>Compañeros de Clase</h2>   </>
-            <ul>
-                  <li><a hre"https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/>"Yadhira Yuriko Coyuri Tirado</a></li>
-                  <li><a href="https://cami15la23.github.io/mi-pagina-/">Camila Alexandra Portillo Ito</a></li>
-                  <li><a href="https://miranda14.neocities.org/">Miranda Aracely Llave Cuyo</a></li>
-    </ul>
-    </section>
-     <h2>LINKEDLN de mis profesores </h2>
+       <!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Mis Compañeros y Profesores</title>
+</head>
+<body>
+
+<section>
+    <h2>Compañeros de Clase</h2>
     <ul>
-     <li><a href="https://www.linkedin.com/in/ecuadrosv/" > Ernesto Cuadros Vargas </a></li>
-     </ul>
-     <section>
-     <h2>Contacto</h2>
-      <li>karlayne.chuctaya@ucsp.edu.pe</li>
-    </body>
-      </html>
+        <li><a href="https://yadhirayurikhocoyuritirado.github.io/yadhirayurikhocoyuri/">Yadhira Yuriko Coyuri Tirado</a></li>
+        <li><a href="https://cami15la23.github.io/mi-pagina-/">Camila Alexandra Portillo Ito</a></li>
+        <li><a href="https://miranda14.neocities.org/">Miranda Aracely Llave Cuyo</a></li>
+    </ul>
+</section>
+
+<section>
+    <h2>LinkedIn de mis profesores</h2>
+    <ul>
+        <li><a href="https://www.linkedin.com/in/ecuadrosv/">Ernesto Cuadros Vargas</a></li>
+    </ul>
+</section>
+
+<section>
+    <h2>Contacto</h2>
+    <ul>
+        <li>karlayne.chuctaya@ucsp.edu.pe</li>
+    </ul>
+</section>
+
+</body>
+</html>
